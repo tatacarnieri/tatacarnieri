@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatacarnieri" alt="tatacarnieri" /></a> </p>
 
-- 🔭 I’m currently working on [Monfluo](www.somewhere.cojm)
+- 🔭 I’m currently working on [Monfluo](https://github.com/tatacarnieri/monfluo.git)
 
 - 🌱 I’m currently learning **Prisma**
 
