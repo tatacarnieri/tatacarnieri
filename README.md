@@ -17,37 +17,29 @@
 
 <h1 align="center">Hi 👋, I'm Thais Carnieri</h1>
 <h3 align="center">A passionate developer from Brazil with a glance of love in cybersecurity</h3>
+<br>
 
 
+- 🔭 Ongoing projects:
+<dl>
+<dd>[ ] - <a href="https://github.com/tatacarnieri/monfluo">Monfluo</a> (Simple application for managing sales, cash flow and customer registration)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">CMV calculation</a> (calculation of goods sold is an indicator that gives you an opinion on the balance of stock/financial)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">Personal website</a> (where I sell spreadsheets related to my last buyer position)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/ozzy">ozzy</a> (keylogger written in c)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/qaplahe">qapla</a> (klingon means success... and it is a trojan, built to understanding the action literally)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/roooocking">Roooocking</a> An nginx setup for load balance at backend running a flask web site for rock band list show</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">private search engine </a></dd>
+ </dl>
 
- 
+<br />
 
-- 🔭 Ongoing projects
-<ul>
-  <li>🚀Coffee</li>
-  <li>🚀Tea</li>
-  <li>Milk</li>
-</ul>
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-[Monfluo](https://github.com/tatacarnieri/monfluo.git)
-
-
-- 📫 How to reach me **carnieri@proton.me**
-
-- ⚡ Fun fact **I love rock and roll and sometimes I write a blog post about it.**
+- ⚡ Fun fact **I love rock and roll and sometimes I write a blog post about it.** 
+<br />
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tatacarnieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tatacarnieri" height="30" width="40" /></a>
 <a href="https://instagram.com/tatacarnieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatacarnieri" height="30" width="40" /></a>
-<a href="https://www.behance.net/thaiscarnieri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="thaiscarnieri" height="30" width="40" /></a>
 </p>
 <br /><br />
 <h3 align="left">Languages and Tools:</h3>
