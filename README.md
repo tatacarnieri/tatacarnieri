@@ -24,9 +24,7 @@
 <dl>
 <dd>[ ] - <a href="https://github.com/tatacarnieri/monfluo">Monfluo</a> (Simple application for managing sales, cash flow and customer registration)</dd>
   <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">CMV calculation</a> (calculation of goods sold is an indicator that gives you an opinion on the balance of stock/financial)</dd>
-  <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">Personal website</a> (where I sell spreadsheets related to my last buyer position)</dd>
-  <dd>[ ] - <a href="https://github.com/tatacarnieri/ozzy">ozzy</a> (keylogger written in c)</dd>
-  <dd>[ ] - <a href="https://github.com/tatacarnieri/qaplahe">qapla</a> (klingon means success... and it is a trojan, built to understanding the action literally)</dd>
+  <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">website</a> (A client requests a onsulting in the area of services: restaurants, tobacconist.. )</dd>
   <dd>[ ] - <a href="https://github.com/tatacarnieri/roooocking">Roooocking</a> An nginx setup for load balance at backend running a flask web site for rock band list show</dd>
   <dd>[ ] - <a href="https://github.com/tatacarnieri/tatacarnierisite">private search engine </a></dd>
  </dl>
