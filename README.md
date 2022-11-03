@@ -53,12 +53,15 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=tatacarnieri&show_icons=true&locale=en" alt="tatacarnieri" /></p>
+<div>
+<img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=tatacarnieri&show_icons=true&locale=en" alt="tatacarnieri" />
 
-<p><img align="left" width="300" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=tatacarnieri&" alt="tatacarnieri" /></p>
+<img align="left" width="300" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=tatacarnieri&" alt="tatacarnieri" />
 
-<p><img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatacarnieri&show_icons=true&locale=en&layout=compact" alt="tatacarnieri" /></p>
+<img align="left" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatacarnieri&show_icons=true&locale=en&layout=compact" alt="tatacarnieri" />
+</div>
 
 <br /><br /><br />
-
-<p><a href="https://www.buymeacoffee.com/tatacarnieri"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tatacarnieri" /></a></p>
+<div>
+<a href="https://www.buymeacoffee.com/tatacarnieri"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tatacarnieri" /></a>
+</div>
